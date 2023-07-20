@@ -40,7 +40,7 @@ This project requires the following Python libraries:
 - seaborn
 - category_encoders
 - teaching_tools
-
+  
 ## Usage
 
 1. Clone this repository to your local machine.
@@ -48,6 +48,6 @@ This project requires the following Python libraries:
 3. Run the provided Python script to execute the heart disease prediction models.
 4. The script will display the accuracy scores of the Decision Tree, Random Forest, and Gradient Boosting models, along with the feature importance plot and the Confusion Matrix for the best-performing model.
 
-##Conclusion
+## Conclusion
 
 The "Heart Disease Prediction" project demonstrates the application of decision tree-based models for predicting heart disease risk. By evaluating multiple models and optimizing hyperparameters, we aim to identify the most effective model for this particular classification task. The feature importance analysis further provides insights into the significant predictors of coronary heart disease.
